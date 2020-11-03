@@ -39,7 +39,7 @@ public class CursoJava {
        }
 
 
-      //  System.out.println(" Nova Data " + ConverteDates.convertDate(new Date()));
+        System.out.println(" Nova Data " + ConverteDates.convertDate(new Date()));
 
         System.out.println("Os carros são: " + car );
         System.out.println("Os carros são: " + car.get(0) + car.get(1));
